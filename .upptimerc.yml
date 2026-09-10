@@ -5,6 +5,8 @@ repo: pedal100-status # The name of this repository
 sites:
   - name: n8n (automações Pedal 100)
     url: https://automacao.pedal100fronteiras.com.br/healthz/readiness
+  - name: Evolution API (WhatsApp)
+    url: http://187.127.50.68:8080
 
 status-website:
   baseUrl: /pedal100-status
