@@ -4,17 +4,17 @@
     "url": "https://automacao.pedal100fronteiras.com.br/healthz/readiness",
     "icon": "https://icons.duckduckgo.com/ip3/automacao.pedal100fronteiras.com.br.ico",
     "slug": "n8n-automacoes-pedal-100",
-    "status": "down",
-    "uptime": "97.02%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "97.40%",
-    "uptimeYear": "97.02%",
-    "time": 808,
-    "timeDay": 1040,
-    "timeWeek": 785,
-    "timeMonth": 803,
-    "timeYear": 808,
+    "status": "up",
+    "uptime": "96.65%",
+    "uptimeDay": "87.33%",
+    "uptimeWeek": "98.19%",
+    "uptimeMonth": "96.99%",
+    "uptimeYear": "96.65%",
+    "time": 813,
+    "timeDay": 1030,
+    "timeWeek": 814,
+    "timeMonth": 813,
+    "timeYear": 813,
     "dailyMinutesDown": {
       "2026-09-11": 224,
       "2026-09-14": 320,
@@ -23,7 +23,8 @@
       "2026-09-19": 109,
       "2026-09-26": 251,
       "2026-09-27": 319,
-      "2026-10-11": 5
+      "2026-10-12": 81,
+      "2026-10-11": 101
     }
   },
   {
@@ -31,17 +32,17 @@
     "url": "http://187.127.50.68:8080",
     "icon": "https://icons.duckduckgo.com/ip3/187.127.50.68.ico",
     "slug": "evolution-api-whats-app",
-    "status": "down",
-    "uptime": "97.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.47%",
-    "uptimeYear": "97.09%",
-    "time": 506,
-    "timeDay": 557,
-    "timeWeek": 509,
-    "timeMonth": 505,
-    "timeYear": 506,
+    "status": "up",
+    "uptime": "96.72%",
+    "uptimeDay": "87.66%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "97.06%",
+    "uptimeYear": "96.72%",
+    "time": 507,
+    "timeDay": 546,
+    "timeWeek": 512,
+    "timeMonth": 508,
+    "timeYear": 507,
     "dailyMinutesDown": {
       "2026-09-11": 219,
       "2026-09-14": 315,
@@ -49,7 +50,9 @@
       "2026-09-16": 80,
       "2026-09-19": 104,
       "2026-09-26": 246,
-      "2026-09-27": 315
+      "2026-09-27": 315,
+      "2026-10-12": 81,
+      "2026-10-11": 97
     }
   }
 ]
