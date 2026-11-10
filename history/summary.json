@@ -4,11 +4,11 @@
     "url": "https://automacao.pedal100fronteiras.com.br/healthz/readiness",
     "icon": "https://icons.duckduckgo.com/ip3/automacao.pedal100fronteiras.com.br.ico",
     "slug": "n8n-automacoes-pedal-100",
-    "status": "up",
+    "status": "down",
     "uptime": "97.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.52%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.51%",
     "uptimeYear": "97.72%",
     "time": 822,
     "timeDay": 697,
@@ -26,7 +26,8 @@
       "2026-10-12": 81,
       "2026-10-11": 101,
       "2026-10-22": 297,
-      "2026-10-23": 168
+      "2026-10-23": 168,
+      "2026-11-10": 5
     }
   },
   {
@@ -34,12 +35,12 @@
     "url": "http://187.127.50.68:8080",
     "icon": "https://icons.duckduckgo.com/ip3/187.127.50.68.ico",
     "slug": "evolution-api-whats-app",
-    "status": "up",
-    "uptime": "97.77%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.78%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.56%",
-    "uptimeYear": "97.77%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "97.78%",
     "time": 528,
     "timeDay": 496,
     "timeWeek": 515,
@@ -56,7 +57,8 @@
       "2026-10-12": 81,
       "2026-10-11": 97,
       "2026-10-22": 292,
-      "2026-10-23": 163
+      "2026-10-23": 163,
+      "2026-11-10": 0
     }
   }
 ]
